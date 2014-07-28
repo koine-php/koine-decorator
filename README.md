@@ -3,6 +3,15 @@ Koine Decorator
 
 Simple decorator base class for PHP.
 
+[![Build Status](https://travis-ci.org/koine-php/koine-decorator.png?branch=master)](https://travis-ci.org/koine-php/koine-decorator)
+[![Coverage Status](https://coveralls.io/repos/koine-php/koine-decorator/badge.png)](https://coveralls.io/r/koine-php/koine-decorator)
+[![Code Climate](https://codeclimate.com/github/koine-php/koine-decorator.png)](https://codeclimate.com/github/koine-php/koine-decorator)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koine-php/koine-decorator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koine-php/koine-decorator/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/koine/koine-decorator/v/stable.svg)](https://packagist.org/packages/koine/koine-decorator)
+[![Total Downloads](https://poser.pugx.org/koine/koine-decorator/downloads.svg)](https://packagist.org/packages/koine/koine-decorator)
+[![Latest Unstable Version](https://poser.pugx.org/koine/koine-decorator/v/unstable.svg)](https://packagist.org/packages/koine/koine-decorator)
+[![License](https://poser.pugx.org/koine/koine-decorator/license.svg)](https://packagist.org/packages/koine/koine-decorator)
+
 ### Usage
 
 Create an class that extends Koine\Decorator and override only the 
@@ -58,11 +67,11 @@ Append the lib to your requirements key in your composer.json.
 - Learn [composer](https://getcomposer.org). You should not be looking for an alternative install. It is worth the time. Trust me ;-)
 - Follow [this set of instructions](#installing-via-composer)
 
-## Issues/Features proposals
+### Issues/Features proposals
 
-[Here](https://github.com/koine/decorator/issues) is the issue tracker.
+[Here](https://github.com/koine-php/decorator/issues) is the issue tracker.
 
-## Contributing
+### Contributing
 
 Only TDD code will be accepted. Please follow the [PSR-2 code standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md).
 
@@ -85,9 +94,9 @@ phpcs --standard=PSR2 lib
 phpcs --standard=PSR2 tests
 ```
 
-## Lincense
+### Lincense
 [MIT](MIT-LICENSE)
 
-## Authors
+### Authors
 
 - [Marcelo Jacobus](https://github.com/mjacobus)

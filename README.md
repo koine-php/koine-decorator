@@ -3,14 +3,14 @@ Koine Decorator
 
 Simple decorator base class for PHP.
 
-[![Build Status](https://travis-ci.org/koine-php/koine-decorator.png?branch=master)](https://travis-ci.org/koine-php/koine-decorator)
-[![Coverage Status](https://coveralls.io/repos/koine-php/koine-decorator/badge.png)](https://coveralls.io/r/koine-php/koine-decorator)
-[![Code Climate](https://codeclimate.com/github/koine-php/koine-decorator.png)](https://codeclimate.com/github/koine-php/koine-decorator)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koine-php/koine-decorator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koine-php/koine-decorator/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/koine/decorator/v/stable.svg)](https://packagist.org/packages/koine/decorator)
-[![Total Downloads](https://poser.pugx.org/koine/decorator/downloads.svg)](https://packagist.org/packages/koine/decorator)
-[![Latest Unstable Version](https://poser.pugx.org/koine/decorator/v/unstable.svg)](https://packagist.org/packages/koine/decorator)
-[![License](https://poser.pugx.org/koine/decorator/license.svg)](https://packagist.org/packages/koine/decorator)
+[![Build Status](https://travis-ci.org/koinephp/Decorator.png?branch=master)](https://travis-ci.org/koinephp/Decorator)
+[![Coverage Status](https://coveralls.io/repos/koinephp/Decorator/badge.png)](https://coveralls.io/r/koinephp/Decorator)
+[![Code Climate](https://codeclimate.com/github/koinephp/Decorator.png)](https://codeclimate.com/github/koinephp/Decorator)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koinephp/Decorator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koinephp/Decorator/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/koinephp/Decorator/v/stable.svg)](https://packagist.org/packages/koinephp/Decorator)
+[![Total Downloads](https://poser.pugx.org/koinephp/Decorator/downloads.svg)](https://packagist.org/packages/koinephp/Decorator)
+[![Latest Unstable Version](https://poser.pugx.org/koinephp/Decorator/v/unstable.svg)](https://packagist.org/packages/koinephp/Decorator)
+[![License](https://poser.pugx.org/koinephp/Decorator/license.svg)](https://packagist.org/packages/koinephp/Decorator)
 
 ### Usage
 

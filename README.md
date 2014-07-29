@@ -10,7 +10,7 @@ Code information:
 [![Code Climate](https://codeclimate.com/github/koinephp/Decorator.png)](https://codeclimate.com/github/koinephp/Decorator)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koinephp/Decorator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koinephp/Decorator/?branch=master)
 
-Pacakage information:
+Package information:
 
 [![Latest Stable Version](https://poser.pugx.org/koine/decorator/v/stable.svg)](https://packagist.org/packages/koine/decorator)
 [![Total Downloads](https://poser.pugx.org/koine/decorator/downloads.svg)](https://packagist.org/packages/koine/decorator)

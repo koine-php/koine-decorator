@@ -2,9 +2,6 @@
 
 namespace Koine;
 
-use PO\Hash;
-use PO\Object;
-
 class Decorator extends Object
 {
     /**

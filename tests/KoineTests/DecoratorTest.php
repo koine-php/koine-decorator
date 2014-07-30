@@ -25,7 +25,7 @@ class DecoratorTest extends PHPUnit_Framework_TestCase
 
     public function testOptionsDefaultToEmptyHash()
     {
-        $this->assertInstanceOf('PO\Hash', $this->object->getOptions());
+        $this->assertInstanceOf('Koine\Hash', $this->object->getOptions());
     }
 
     public function testDelegatesToTheObject()

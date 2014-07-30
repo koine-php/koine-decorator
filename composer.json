@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php-objects/php-objects": "0.9.*"
+        "koine/objects": "0.9.*"
     },
     "require-dev": {
         "phpunit/PHPUnit": "*",

@@ -4,34 +4,33 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "23349706096c0bbff90f287f36c489bd",
+    "hash": "ec219a45f2f3152e8a1e2cf043e7bac7",
     "packages": [
         {
-            "name": "php-objects/php-objects",
-            "version": "0.9.3",
+            "name": "koine/objects",
+            "version": "0.9.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/mjacobus/php-objects.git",
-                "reference": "205f0bcd6855572ad733a4dbbd2d38510664c217"
+                "url": "https://github.com/koinephp/Objects.git",
+                "reference": "53cd9639bc331809d22c4bf3e98ca547965d1964"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mjacobus/php-objects/zipball/205f0bcd6855572ad733a4dbbd2d38510664c217",
-                "reference": "205f0bcd6855572ad733a4dbbd2d38510664c217",
+                "url": "https://api.github.com/repos/koinephp/Objects/zipball/53cd9639bc331809d22c4bf3e98ca547965d1964",
+                "reference": "53cd9639bc331809d22c4bf3e98ca547965d1964",
                 "shasum": ""
             },
+            "require": {
+                "php": ">=5.3.3"
+            },
             "require-dev": {
-                "fabpot/php-cs-fixer": "dev-master",
-                "phpmd/phpmd": "*",
-                "phpunit/phpunit": "3.7.*",
-                "satooshi/php-coveralls": "dev-master",
-                "sebastian/phpcpd": "*",
-                "sebastian/phpdcd": "*"
+                "phpunit/phpunit": "*",
+                "satooshi/php-coveralls": "dev-master"
             },
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "PO\\": "lib"
+                    "Koine\\": "lib"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -46,7 +45,7 @@
             ],
             "description": "Primitive types behaving like grown up objects",
             "homepage": "https://github.com/mjacobus/php-objects",
-            "time": "2014-07-03 17:48:13"
+            "time": "2014-07-29 20:32:19"
         }
     ],
     "packages-dev": [

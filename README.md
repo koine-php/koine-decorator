@@ -74,7 +74,7 @@ Append the lib to your requirements key in your composer.json.
 
 ### Issues/Features proposals
 
-[Here](https://github.com/koine-php/decorator/issues) is the issue tracker.
+[Here](https://github.com/koinephp/decorator/issues) is the issue tracker.
 
 ### Contributing
 

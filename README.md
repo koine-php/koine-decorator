@@ -16,6 +16,7 @@ Package information:
 [![Total Downloads](https://poser.pugx.org/koine/decorator/downloads.svg)](https://packagist.org/packages/koine/decorator)
 [![Latest Unstable Version](https://poser.pugx.org/koine/decorator/v/unstable.svg)](https://packagist.org/packages/koine/decorator)
 [![License](https://poser.pugx.org/koine/decorator/license.svg)](https://packagist.org/packages/koine/decorator)
+[![Dependency Status](https://gemnasium.com/koinephp/Decorator.png)](https://gemnasium.com/koinephp/Decorator)
 
 ### Usage
 
